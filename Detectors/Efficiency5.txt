@@ -1,0 +1,7 @@
+Nuclide Energy (keV) EmissionProbability(%) Efficiency (Eff)
+137Cs 121.78 0.5 0.055
+60Co 244.0 0.3 0.079
+X 344.28 0.3 0.09009
+Y 411.0 0.2 0.074
+226Ra 778.9 0.2 0.044
+238U 1112.07 0.5 0.022002
