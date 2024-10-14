@@ -1,4 +1,4 @@
-# GSA v2 - Gamma Spectrum Analysis Tool
+# GSA v2 - Gamma Spectrum Analysis
 
 **GSA v2** is the second version of the gamma spectrum analysis tool, available at the following link: [GSA v2 on GitHub](https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/tree/master).
 
@@ -12,7 +12,7 @@ To enhance calibration precision, four different efficiency formulas are employe
 # GUI 
 
 
-![GUI](C:\Users\J.P.M\Desktop\gith.png)
+![GUI]([C:\Users\J.P.M\Desktop\gith.png](https://user-images.githubusercontent.com/84868855/133160395-fd108504-539a-4871-9add-2fa9c1304f51.png))
 
 
 ![ovelpn](https://user-images.githubusercontent.com/84868855/133216366-69d03e72-e784-4878-877d-0bde54b26cd4.png)
