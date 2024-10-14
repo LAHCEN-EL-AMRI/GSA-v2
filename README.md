@@ -12,7 +12,7 @@ To enhance calibration precision, four different efficiency formulas are employe
 # GUI 
 
 
-![GUI](<img width="960" alt="gith" src="https://github.com/user-attachments/assets/247e06a1-285f-43dd-91fe-cbce98acdf7b">)
+![GUI](C:\Users\J.P.M\Desktop\gith.png)
 
 
 ![ovelpn](https://user-images.githubusercontent.com/84868855/133216366-69d03e72-e784-4878-877d-0bde54b26cd4.png)
