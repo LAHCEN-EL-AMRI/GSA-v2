@@ -19,9 +19,9 @@ To enhance calibration precision, four different efficiency formulas are employe
 
 
 # Prerequisites
-A [manual](https://github.com/LAHCEN-EL-AMRI/GSA1.01/tree/master/GSA.1.01WithInstall/Doc) existed in the Doc folder explains in detail all the options of the graphical interface.
+A [manual]([https://github.com/LAHCEN-EL-AMRI/GSA1.01/tree/master/GSA.1.01WithInstall/Doc](https://github.com/LAHCEN-EL-AMRI/GSAv2/blob/master/GSA.v2/Doc/Manuel%20GSA%20v2.pdf)) existed in the Doc folder explains in detail all the options of the graphical interface.
 
-
+                          
 # Installion
 
 Java language must be pre-installed on the computer.
@@ -37,7 +37,7 @@ User has two possibilities:
 
 
 # Versions
-- 1.01
+- 2.0
 
 
 # Authors
