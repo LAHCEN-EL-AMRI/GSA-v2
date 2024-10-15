@@ -15,19 +15,46 @@ To enhance calibration precision, four different efficiency formulas are employe
 ![GUI](https://user-images.githubusercontent.com/84868855/133160395-fd108504-539a-4871-9add-2fa9c1304f51.png)
 
 
+# Efficiency calibration
+
+The four formulas for calibrating efficiency
+
+
+<img width="594" alt="git2" src="https://github.com/user-attachments/assets/b416cc26-7cba-4dba-bafe-ec5618aaa4ca">
+
+
+#
+
+
+GSA v2 Efficiency Calibration Window
+
+<img width="480" alt="gif3" src="https://github.com/user-attachments/assets/27eae1fa-6bd8-4f8e-b3b0-74bbfc5b09f3">
+
+
+#
+
+
+Example of table of nuclides used to determine efficiency formula coefficients
+
+<img width="442" alt="gif4" src="https://github.com/user-attachments/assets/dcf093d5-b136-4ff5-9e9a-0744346f2ed4">
+
+#
+
+Graphical example of gamma spectrum analysis
+
 ![ovelpn](https://user-images.githubusercontent.com/84868855/133216366-69d03e72-e784-4878-877d-0bde54b26cd4.png)
 
 
 # Prerequisites
-A [manual]([https://github.com/LAHCEN-EL-AMRI/GSA1.01/tree/master/GSA.1.01WithInstall/Doc](https://github.com/LAHCEN-EL-AMRI/GSAv2/blob/master/GSA.v2/Doc/Manuel%20GSA%20v2.pdf)) existed in the Doc folder explains in detail all the options of the graphical interface.
+A [manual](https://github.com/LAHCEN-EL-AMRI/GSA-v2/blob/master/GSA.v2/Doc/Manuel%20GSA%20v2.pdf) existed in the Doc folder explains in detail all the options of the graphical interface.
 
                           
 # Installion
 
 Java language must be pre-installed on the computer.
 User has two possibilities:
-- Without installation: click directly on GSA1.01.exe
-- With installation: click on setup and follow the steps.
+- Without installation: click directly on GSA v2.exe
+
 
 
 # Made with:
@@ -42,9 +69,9 @@ User has two possibilities:
 
 # Authors
 * **LAHCEN EL AMRI** *lahssenelamri@gmail.com* *phd student* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
-*  **ABDELOUAHED CHETAINE** * professor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
 * **HAMID AMSIL** *  amsil@cnesten.org.ma*  *recruiter* * Nuclear Centre of Energy, Science and Nuclear Techniques, Morocco
-
+* *  **ABDELOUAHED CHETAINE** * professor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
+* **OMAR EL BOUNAGUI** * professor* * LaMCSCI, Faculty of Sciences, Mohammed V University of Rabat, Morocco
 
 # LICENSE
 
