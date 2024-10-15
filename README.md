@@ -12,7 +12,8 @@ To enhance calibration precision, four different efficiency formulas are employe
 # GUI 
 
 
-![GUI](https://user-images.githubusercontent.com/84868855/133160395-fd108504-539a-4871-9add-2fa9c1304f51.png)
+<img width="960" alt="gith" src="https://github.com/user-attachments/assets/07ddedba-1df8-4319-a91d-9f7e7859afb2">
+
 
 
 # Efficiency calibration
@@ -70,7 +71,7 @@ User has two possibilities:
 # Authors
 * **LAHCEN EL AMRI** *lahssenelamri@gmail.com* *phd student* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
 * **HAMID AMSIL** *  amsil@cnesten.org.ma*  *recruiter* * Nuclear Centre of Energy, Science and Nuclear Techniques, Morocco
-* *  **ABDELOUAHED CHETAINE** * professor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
+* **ABDELOUAHED CHETAINE** * professor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
 * **OMAR EL BOUNAGUI** * professor* * LaMCSCI, Faculty of Sciences, Mohammed V University of Rabat, Morocco
 
 # LICENSE
