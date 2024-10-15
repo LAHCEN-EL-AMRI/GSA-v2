@@ -76,4 +76,4 @@ User has two possibilities:
 
 # LICENSE
 
-- This project is licensed under GNU Affero General Public [License]([https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/blob/master/LICENSE](https://github.com/LAHCEN-EL-AMRI/GSA1.01/blob/master/LICENSE))  v3.0 (see the LICENSE.md file for more information)
+- This project is licensed under GNU Affero General Public [License v3.0 ](https://github.com/LAHCEN-EL-AMRI/GSA-v2/blob/main/LICENSE)see the LICENSE.md file for more information)
