@@ -1,6 +1,6 @@
 # GSA v2 - Gamma Spectra Analysis
 
-**GSA v2** is the second version of the Gamma Spectra Analysis, available at the following link: [GSA v2 on GitHub](https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/tree/master).
+**GSA v2** is the second version of the Gamma Spectra Analysis, available at the following link: [GSA v1 on GitHub](https://github.com/LAHCEN-EL-AMRI/Gamma-spectra-analysis/tree/master).
 
 This version retains all the functionalities of the first while introducing an option to **calculate the activity of each nuclide** present in the sample, thus facilitating result analysis.
 
