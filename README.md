@@ -58,7 +58,9 @@ User has two possibilities:
 
 
 
-# Made with:
+# Dependencies:
+
+This project requis the following dependencies :
 
 - [java language](https://www.java.com/download/ie_manual.jsp)
 - [JFreeChart library](https://www.jfree.org/jfreechart/)
