@@ -62,7 +62,7 @@ User has two possibilities:
 
 This project requis the following dependencies :
 
-- [java language](https://www.java.com/download/ie_manual.jsp)
+- [java language version 21.0.4](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
 - [JFreeChart library](https://www.jfree.org/jfreechart/)
 
 
