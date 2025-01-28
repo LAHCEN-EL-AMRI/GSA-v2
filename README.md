@@ -71,9 +71,9 @@ This project requis the following dependencies :
 
 
 # Authors
-* **LAHCEN EL AMRI** *lahssenelamri@gmail.com*  *Dr* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
-* **HAMID AMSIL** *  amsil@cnesten.org.ma*  *recruiter* * Nuclear Centre of Energy, Science and Nuclear Techniques, Morocco
-* **ABDELOUAHED CHETAINE** * professor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
+* **LAHCEN EL AMRI** *lahssenelamri@gmail.com*  *doctor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
+* **HAMID AMSIL** *  amsil@cnesten.org.ma*  *expert doctor* * Nuclear Centre of Energy, Science and Nuclear Techniques, Morocco
+* **ABDELOUAHED CHETAINE** * professor (PES)* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
 * **OMAR EL BOUNAGUI** * professor* * LaMCSCI, Faculty of Sciences, Mohammed V University of Rabat, Morocco
 
 # LICENSE
